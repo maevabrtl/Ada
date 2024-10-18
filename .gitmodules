@@ -4,12 +4,6 @@
 [submodule "Projets_collectifs"]
 	path = Projets_collectifs
 	url = git@github.com:maevabrtl/Projets_collectifs.git
-[submodule "Fiches_arbre_practice"]
-	path = Fiches_arbre_practice
-	url = https://github.com/maevabrtl/Fiches_arbre_practice.git
 [submodule "Projet_perso"]
 	path = Projet_perso
 	url = https://github.com/maevabrtl/Projet_perso.git
-[submodule "Onboarding_week"]
-	path = Onboarding_week
-	url = https://github.com/maevabrtl/Onboarding_week.git
